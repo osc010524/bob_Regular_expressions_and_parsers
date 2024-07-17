@@ -1,0 +1,20 @@
+This is the first line.
+The second line is also here.
+Here is the third line, with some punctuation!
+Does the fourth line include a question mark?
+Fifth line: checking for colons.
+Sixth line - with a dash.
+Seventh line; using a semicolon.
+Eighth line, here we have a comma.
+Ninth line
+Tenth line: testing with mixed symbols *&^%$#@!
+Eleventh line to see how numbers are handled: 12345
+Twelfth line with a mix of upper and lower case.
+Thirteenth line, containing: 67890 and other symbols!
+Fourteenth line without any special characters
+Fifteenth line with different lengths of words: a ab abc abcd abcde
+Sixteenth line should be simple.
+Seventeenth line just to add more.
+Eighteenth line is getting closer.
+Nineteenth line almost there.
+Twentieth line, the final one.
