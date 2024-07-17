@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.l": "lex",
+        "fb3-2.h": "c"
+    }
+}

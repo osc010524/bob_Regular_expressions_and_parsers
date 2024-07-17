@@ -1,0 +1,15 @@
+a = 5
+b = 3
+c = 2
+a + b
+a * c
+b / c
+| -7
+sum(a, b)
+product(a, b, c)
+(a + b) * c
+a + b * c
+max(a, b, c)
+min(a, b, c)
+-5
+-(a + b)
